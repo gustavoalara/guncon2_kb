@@ -4,6 +4,7 @@ Linux driver for the GunCon 2 light gun.
 The device reports absolute `ABS_X` and `ABS_Y` positions, the trigger button is reported as `BTN_LEFT`. The `ABS_X` and `ABS_Y` position reported by the device are raw values from the GunCon 2. 
 
 This branch is modified and uses keyboard keys instead of gamepad buttons and D-Pad
+
 1 is the Guncon2 Start button
 5 is the Guncon2 Select button
 Keyboard D-Pad is the Guncon2 D-Pad
