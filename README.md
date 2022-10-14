@@ -6,11 +6,17 @@ The device reports absolute `ABS_X` and `ABS_Y` positions, the trigger button is
 This branch is modified and uses keyboard keys instead of gamepad buttons and D-Pad
 
 1 is the Guncon2 Start button
+
 5 is the Guncon2 Select button
+
 Keyboard D-Pad is the Guncon2 D-Pad
+
 Left Shift is the Guncon2 C button
+
 Left mouse button is the Guncon2 trigger
+
 Right mouse button is the Guncon2 A Button
+
 Middle mouse button is the Guncon2 B button
 
 
